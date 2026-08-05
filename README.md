@@ -4,7 +4,7 @@ Hi, I'm G Sidharth, a Full Stack Developer and Computer Science undergraduate <b
 
 
 ## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gopu-sidharth/)) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gopu-sidharth/)
 [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:gopusidharth00@gmail.com) 
 
 # 💻 Tech Stack:
